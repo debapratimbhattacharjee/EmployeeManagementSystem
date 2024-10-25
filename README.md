@@ -31,7 +31,7 @@ pip install customtkinter
 
 Usage
 1.Run the application:
-python app.py
+  python app.py
 
 2.Use the input fields to manage employee records.
 3.Use the buttons to save, update, delete, or clear entries.
