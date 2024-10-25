@@ -19,4 +19,23 @@ This Employee Management System is designed to help manage employee records effi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/EmployeeManagementSystem.git
+   git clone https://debapratimbhattacharjee/EmployeeManagementSystem.git
+Navigate to the project directory:
+bash
+
+cd Employee-Management-System
+Install required packages (if any):
+bash
+
+pip install customtkinter
+Usage
+Run the application:
+bash
+
+python app.py
+Use the input fields to manage employee records.
+Use the buttons to save, update, delete, or clear entries.
+
+
+Author
+Debapratim Bhattacharjee
